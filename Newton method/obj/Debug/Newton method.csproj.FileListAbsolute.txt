@@ -1,0 +1,6 @@
+/Users/yurii/RiderProjects/Newton method/Newton method/obj/Debug/Newton method.csproj.AssemblyReference.cache
+/Users/yurii/RiderProjects/Newton method/Newton method/obj/Debug/Newton method.csproj.CoreCompileInputs.cache
+/Users/yurii/RiderProjects/Newton method/Newton method/bin/Debug/Newton_method.exe
+/Users/yurii/RiderProjects/Newton method/Newton method/bin/Debug/Newton_method.pdb
+/Users/yurii/RiderProjects/Newton method/Newton method/obj/Debug/Newton_method.exe
+/Users/yurii/RiderProjects/Newton method/Newton method/obj/Debug/Newton_method.pdb
